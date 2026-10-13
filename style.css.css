@@ -1,0 +1,19 @@
+.row {
+    gap: 5px;
+}
+body{
+    margin:auto;
+}
+
+body {
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEAfBITJFy9LwG4RlxsT_Cgdu-tdnYRiqLjtOzcnb88_3cAzgVS3oxE7A&s=10);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+body {
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap" rel="stylesheet">
+}
